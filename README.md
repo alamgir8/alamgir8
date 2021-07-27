@@ -2,7 +2,7 @@
 
 
 
-- 🌱 I’m currently learning next.js, Redux and GraphQL🤣
+- 🌱 I’m currently learning next.js, Redux and GraphQL
 - ⚡ I just want learn more about code 
 - 👯 I’m looking to my new journey
 - 🥅 2021 Goals: Learning new language 
