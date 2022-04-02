@@ -3,7 +3,7 @@
 
 
 - 🌱 I’m currently learning React native
-- ⚡ I just want learn more about code 
+- ⚡ I just want learn more programming language
 - 👯 I’m looking to my new journey
 - 🥅 2022 Goals: Learning new language 
 - ⚡ Fun fact: I love to coding, travelling, do good work
