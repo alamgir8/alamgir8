@@ -2,11 +2,11 @@
 
 
 
-- 🌱 I’m currently learning React Native
+- 🌱 I’m currently learning Flutter
 - ⚡ I just want to learn more programming language
 - 👯 I’m looking to my new journey
 - 🥅 2024 Goals: Learning new language 
-- ⚡ Fun fact: I love coding, traveling, do good work
+- ⚡ Fun fact: I love coding, traveling, do good work 😍
 
 
 
