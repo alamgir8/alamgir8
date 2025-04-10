@@ -44,15 +44,6 @@
 - 💬 Ask me about React Native, MERN, or Flutter
 
 ---
-
-## 📈 GitHub Stats
-
-![Alamgir's GitHub stats](https://github-readme-stats.vercel.app/api?username=alamgir8&show_icons=true&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=alamgir8&layout=compact&theme=radical)
-
----
-
 ## 🔗 Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/alamgir8/)
