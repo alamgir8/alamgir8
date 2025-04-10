@@ -8,7 +8,7 @@
 - 🔧 Flutter & Dart for cross-platform apps
 - 🌐 MERN Stack for full-stack web development
 - 📱 React Native + Expo for mobile apps
-- ⚡ Frontend with Vite + Tailwind CSS
+- ⚡ Frontend with Next.js, Vite + Tailwind CSS
 - 🧠 Advanced JavaScript & TypeScript
 
 ---
@@ -18,7 +18,7 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178c6?style=flat-square&logo=typescript)
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
-![Next.js](https://img.shields.io/badge/-Next.js-61DAFB?style=flat-square&logo=next)
+![Next.js](https://img.shields.io/badge/-Next.js-black?style=flat-square&logo=next.js)
 ![React Native](https://img.shields.io/badge/-React_Native-61DAFB?style=flat-square&logo=react)
 ![Expo](https://img.shields.io/badge/-Expo-000020?style=flat-square&logo=expo)
 ![Vite](https://img.shields.io/badge/-Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
@@ -59,5 +59,3 @@
 [![Email](https://img.shields.io/badge/-Email-black?style=flat-square&logo=gmail)](mailto:alamgirh389@gmail.com)
 
 ---
-
-_“Code is like humor. When you have to explain it, it’s bad.”_
