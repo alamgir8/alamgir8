@@ -18,6 +18,7 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178c6?style=flat-square&logo=typescript)
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
+![Next.js](https://img.shields.io/badge/-Next.js-61DAFB?style=flat-square&logo=next)
 ![React Native](https://img.shields.io/badge/-React_Native-61DAFB?style=flat-square&logo=react)
 ![Expo](https://img.shields.io/badge/-Expo-000020?style=flat-square&logo=expo)
 ![Vite](https://img.shields.io/badge/-Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
