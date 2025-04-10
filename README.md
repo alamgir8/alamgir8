@@ -14,7 +14,7 @@
 ## 🛠️ Tech Stack
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
-![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat-square&logo=flutter)
+![React-Native](https://img.shields.io/badge/-Flutter-02569B?style=flat-square&logo=react-native)
 ![Firebase](https://img.shields.io/badge/-Firebase-ffca28?style=flat-square&logo=firebase)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-4EA94B?style=flat-square&logo=mongodb)
 ![Node.js](https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=node.js)
